@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.exe
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.deps.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.runtimeconfig.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\ref\Switch_Case.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\bin\Debug\net5.0\Switch_Case.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\ref\Switch_Case.dll
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.pdb
+C:\Projetos\AMS\1ano\SEMESTRE2\Atividade_em_Grupo\Switch_Case\obj\Debug\net5.0\Switch_Case.genruntimeconfig.cache
